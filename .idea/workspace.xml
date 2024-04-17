@@ -5,8 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2cd8349-42a6-42be-a628-80b882b16f3c" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/week4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/week4.py" beforeDir="false" afterPath="$PROJECT_DIR$/week4.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,13 +81,22 @@
       <option name="project" value="LOCAL" />
       <updated>1712777902522</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="lists (arrays in JavaScript) and dictionaries (objects in JS)">
+      <option name="closed" value="true" />
+      <created>1713382719893</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713382719893</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
     <MESSAGE value="more and more stuff to learn!" />
-    <option name="LAST_COMMIT_MESSAGE" value="more and more stuff to learn!" />
+    <MESSAGE value="lists (arrays in JavaScript) and dictionaries (objects in JS)" />
+    <option name="LAST_COMMIT_MESSAGE" value="lists (arrays in JavaScript) and dictionaries (objects in JS)" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

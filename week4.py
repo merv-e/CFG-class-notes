@@ -173,6 +173,7 @@ chosen_name = random.choice(first_names) + " " +  random.choice(last_names)
 
 print(chosen_name)
 
+# continue doing this exercise.
 # Using list of verbs and a list of nouns, create randomised sentences
 
 verbs = ["hug", "love", "smooch", "", "", ""]
