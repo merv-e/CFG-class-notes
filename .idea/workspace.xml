@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a2cd8349-42a6-42be-a628-80b882b16f3c" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/get_pokemon.py" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/todo.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/week5.py" beforeDir="false" afterPath="$PROJECT_DIR$/week5.py" afterDir="false" />
@@ -49,6 +50,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.get_pokemon.executor": "Run",
     "Python.week3.executor": "Run",
     "Python.week4.executor": "Run",
     "Python.week5.executor": "Run",
@@ -114,7 +116,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713382771619</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="pip and stuff excluded.">
+      <option name="closed" value="true" />
+      <created>1713985008592</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713985008592</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -122,7 +132,8 @@
     <MESSAGE value="more and more stuff to learn!" />
     <MESSAGE value="lists (arrays in JavaScript) and dictionaries (objects in JS)" />
     <MESSAGE value="a note is added." />
-    <option name="LAST_COMMIT_MESSAGE" value="a note is added." />
+    <MESSAGE value="pip and stuff excluded." />
+    <option name="LAST_COMMIT_MESSAGE" value="pip and stuff excluded." />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

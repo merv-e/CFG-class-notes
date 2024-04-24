@@ -133,7 +133,4 @@ print(shortest_height)
 
 '''
 
-# pip is an external package created by other people
-
-pokemon_API = "https://pokeapi.co/"
 
